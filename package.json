@@ -1,0 +1,23 @@
+{
+  "name": "simple_protfolio_project_3",
+  "version": "1.0.0",
+  "description": "simple personal webpage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohamed475/simple_protfolio_project_3.git"
+  },
+  "author": "Mohamed Yasser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohamed475/simple_protfolio_project_3/issues"
+  },
+  "homepage": "https://github.com/Mohamed475/simple_protfolio_project_3#readme",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
